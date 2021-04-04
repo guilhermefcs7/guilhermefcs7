@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hi, i'am Guilherme Falcão! 👋
+
+Seja bem-vindo!
 
 <!--
 **guilhermefcs7/guilhermefcs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefcs7&layout=compact)](https://github.com/guilhermefcs7/github-readme-stats)
+💻 Software engineering student
+🇧🇷  Born in Salvador, Brazil
+📚 Focused on javascript studies
+🎨 I rly like minimalist design
+ 📱 Mobile is my main goal
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefcs7&show_icons=true&theme=radical)
+
+
