@@ -16,7 +16,6 @@ Seja bem-vindo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefcs7&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefcs7&langs_count=8)](https://github.com/guilhermefcs7/github-readme-stats)
 
 
 
