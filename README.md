@@ -9,7 +9,7 @@ Seja bem-vindo!
 
 📚 Focused on javascript studies <br>
 
-🎨 I rly like minimalist design <br>
+🎨 I'm into minimalist design <br>
 
    📱 Mobile is my main goal 
    <p> </p>
