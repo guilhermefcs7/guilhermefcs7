@@ -5,13 +5,13 @@ Seja bem-vindo!
 
 <h3 align="center"> 💻Software engineering student</h2> 
 
-🇧🇷  Born in Salvador, Brazil <br>
+<h3 align="center"> 🇧🇷  Born in Salvador, Brazil <br></h3>
 
-📚 Focused on javascript studies <br>
+<h3 align="center"> 📚 Focused on javascript studies <br></h3>
 
-🎨 I'm into minimalist design <br>
+<h3 align="center"> 🎨 I'm into minimalist design <br></h3>
 
-   📱 Mobile is my main goal 
+<h3 align="center">  📱 Mobile is my main goal </h3>
    <p> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefcs7&show_icons=true&theme=radical) 
