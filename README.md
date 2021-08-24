@@ -3,7 +3,7 @@
 Seja bem-vindo!
 
 
-💻 Software engineering student 
+💻<h2 align="center"> Software engineering student</h2> 
 
 🇧🇷  Born in Salvador, Brazil <br>
 
