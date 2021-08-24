@@ -1,4 +1,4 @@
-<align="center">### Hi, i'am Guilherme Falcão! 👋
+### Hi, i'am Guilherme Falcão! 👋
 
 Seja bem-vindo!
 
