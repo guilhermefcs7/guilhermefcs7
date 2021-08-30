@@ -2,7 +2,7 @@
 
 Seja bem-vindo!
 
-
+<div align="center">
  💻Software engineering student 
 
  🇧🇷  Born in Salvador, Brazil <br>
@@ -13,6 +13,8 @@ Seja bem-vindo!
  
  📱 Mobile is my main goal 
    <p> </p>
+ 
+ </div>
 
 <div>
   <a href="https://github.com/rafaballerini">
