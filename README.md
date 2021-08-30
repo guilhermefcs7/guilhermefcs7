@@ -1,7 +1,13 @@
+<div align="center">
 ### Hi, i'am Guilherme Falcão! 👋
+</div>
 
-Seja bem-vindo!
+<div align="center">
 
+ Seja bem-vindo!
+
+</div>
+ 
 <div align="center">
  💻Software engineering student 
 
