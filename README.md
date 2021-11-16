@@ -25,7 +25,7 @@
   
   <h1>My Code Activity </h1>
   
-  <a href="https://github.com/rafaballerini" style="display: inline_block" align = "center">
+  <a href="https://github.com/guilhermefcs7" style="display: inline_block" align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermefcs7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefcs7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
