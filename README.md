@@ -42,7 +42,7 @@
     <br> <br>
   <img height="40" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" />
-  <img height="40" src="https://img.icons8.com/color/452/visual-studio.png" alt="Visual Studio" />
+  <img height="40" src="https://img.icons8.com/color/452/visual-studio-code.png" alt="Visual Studio Code" />
 
 </div>
    
