@@ -1,12 +1,8 @@
-<div align="center">
-  <h1 align="center">Hey!! Welcome.
-</div>
+
 
 
 <div align="center">
- 
-  <h2> Something about me! </h2>
-<br>
+
   
  💻Software engineering student <br>
 
