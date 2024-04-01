@@ -2,7 +2,6 @@
   
 - 💻 &nbsp; Software engineering student by Catholic University.
 - 🇧🇷  &nbsp; Born in Salvador, Brazil.
-- 📚 &nbsp; Working as software developer for bank of brazil. 
 - 🎨 &nbsp; I'm into minimalist design
 - 📱 &nbsp; Focused on development with React, React Native, Angular, Typescript and Nodejs as FullStack projects 
   
