@@ -1,9 +1,9 @@
 <h2> 👨🏻‍💻 &nbsp;Welcome</h2>
   
-- 💻 &nbsp; Software engineering student by Catholic University.
+- 💻 &nbsp; Software engineering.
 - 🇧🇷  &nbsp; Born in Salvador, Brazil.
 - 🎨 &nbsp; I'm into minimalist design
-- 📱 &nbsp; Focused on development with React, React Native, Angular, Typescript and Nodejs as FullStack projects 
+- 📱 &nbsp; Focused on development with Front-end and FullStack projects 
   
   <a href="https://github.com/guilhermefcs7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermefcs7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
