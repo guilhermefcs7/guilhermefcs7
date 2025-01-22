@@ -1,6 +1,6 @@
 <h2> 👨🏻‍💻 &nbsp;Welcome</h2>
   
-- 💻 &nbsp; Software engineering.
+- 💻 &nbsp; Software Engineer.
 - 🇧🇷  &nbsp; Born in Salvador, Brazil.
 - 🎨 &nbsp; I'm into minimalist design
 - 📱 &nbsp; Focused on development with Front-end and FullStack projects 
